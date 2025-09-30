@@ -62,5 +62,5 @@ Progresso (com base no cronograma do curso):
 ---
 
 ## 📫 Contato
-**LinkedIn:** [www.linkedin.com/in/hendrickfsilva] • **GitHub:** [github.com/hendrickf] • **E-mail:** [hendricksilva.profissional@gmail.com]  
+**LinkedIn:** [[LinkedIn](www.linkedin.com/in/hendrickfsilva)] • **GitHub:** [[github.com/hendrickf](https://github.com/hendrickf/)] • **E-mail:** [[E-mail](hendricksilva.profissional@gmail.com)]  
 **Disponível para:** **Júnior/Estágio** (presencial RJ, híbrido ou remoto) e **take-home curto**.
