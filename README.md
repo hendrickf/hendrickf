@@ -55,8 +55,6 @@ Progresso (com base no cronograma do curso):
 ### Alura — Santander Imersão Digital
 - [ ] **Santander | Imersão Digital (Alura)** — *(habilidades digitais, carreira em tech e práticas de mercado)* — [Certificado](#)
 
-> Dica: quando receber cada certificado, suba o **link público** (ou PDF no repo) e marque a caixa acima.
-
 ---
 
 ## 🚀 Entregas do portfólio (em breve)
@@ -64,5 +62,5 @@ Progresso (com base no cronograma do curso):
 ---
 
 ## 📫 Contato
-**LinkedIn:** [link] • **GitHub:** [github.com/seuusuario] • **E-mail:** [seuemail@exemplo.com]  
+**LinkedIn:** [www.linkedin.com/in/hendrickfsilva] • **GitHub:** [github.com/hendrickf] • **E-mail:** [hendricksilva.profissional@gmail.com]  
 **Disponível para:** **Júnior/Estágio** (presencial RJ, híbrido ou remoto) e **take-home curto**.
